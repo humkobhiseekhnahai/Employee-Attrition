@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 Dataset
 
-The dataset used in this project contains the following columns:
+The dataset used in this project contains the following column:
 ```
     Id: Unique identifier for each employee
     Age: Age of the employee
