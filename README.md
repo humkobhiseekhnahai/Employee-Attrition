@@ -87,4 +87,4 @@ Deployment
 Running the Application
 
 To run the Streamlit application, click the below link:
-https://employee-attrition-aman-umang.streamlit.app/
+https://employee-attrition-lucs5kahebykcawh27jllu.streamlit.app/
