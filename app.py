@@ -5,7 +5,6 @@ import streamlit as st
 
 def main():
     st.header('Employee Attrition Predictor')
-    st.subheader(""" Made with :heart: by Aman Kumar and Umang Udbhav""")
     def input_features() :
         st.sidebar.header('Slide the sliders to change the variables.')
         age = st.sidebar.slider('Age of employee', 18,65,30)
